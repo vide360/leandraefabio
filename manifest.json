@@ -39,7 +39,7 @@
    "sizes": "64x64"
   }
  ],
- "start_url": "index.htm",
+ "start_url": "index.htm?installed=true",
  "theme_color": "#FFFFFF",
  "description": "Casamento de Leandra e Fábio"
 }
